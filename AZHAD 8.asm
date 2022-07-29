@@ -1,0 +1,7 @@
+ORG 00
+MOV 40H, #50H
+MOV 50H, #40H   
+MOV R0, #30H     
+MOV 30H, 40H     
+MOV R1, #40H
+END 

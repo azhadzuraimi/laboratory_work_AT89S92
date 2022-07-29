@@ -1,0 +1,6 @@
+ORG 00H
+MOV A, #77H
+MOV RO, #12H
+XCH A, @R0
+END 
+
