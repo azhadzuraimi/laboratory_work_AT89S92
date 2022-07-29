@@ -1,4 +1,4 @@
-# **laboratory_work_AT89S92**
+# **Laboratory_work_AT89S92**
 This is Laboratory project to be able to write the Intel 8051 input/output assembly language programs for the MCS®-51 compatible AT89S92 microcontroller
 
 ## **OBJECTIVES**
@@ -13,7 +13,7 @@ c. USBasp Programmer Driver.
 2. AT89S52 IC Programming Software-ProgIsp
 3. GIE 8051 Mini Kit Board.
 
-##EXERCISES
+## **EXERCISES**
 1. Write and execute a program that turns the buzzer at Port P04 ON and OFF every 5 seconds if
 the switch K4 is pressed and display the word “BUZZER ON” or “BUZZER OFF” on LCD.
 2. Write and execute a program that reads the condition of 4 switches at Port 3 and send the
