@@ -1,11 +1,11 @@
-# laboratory_work_AT89S92
+# **laboratory_work_AT89S92**
 This is Laboratory project to be able to write the Intel 8051 input/output assembly language programs for the MCS®-51 compatible AT89S92 microcontroller
 
-##OBJECTIVES
+## **OBJECTIVES**
 At the end of the laboratory work, you should be able to write the Intel 8051 input/output
 assembly language programs for the MCS®-51 compatible AT89S92 microcontroller.
 
-##EQUIPMENTS
+## **EQUIPMENTS**
 1. A Personal computer installed with:
 a. MCU 8051 IDE Editor/Assembler/Simulator.
 b. PL_2303 Driver (USB to Serial Port).
